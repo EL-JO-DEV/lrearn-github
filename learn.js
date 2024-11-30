@@ -12,6 +12,8 @@
   9- init   :Create an empty Git repository or reinitialize an existing one
   10- clean -n : show the files that are unstaged
   11- clean -f : remove the files that are unstaged
+  12- reset --hard commit code : remove the last commit
+  13- tag : set a new vergin
 
   how to add file to the remote repo 
     1- git add
