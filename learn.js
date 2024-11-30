@@ -8,6 +8,10 @@
   5-   push : Update remote refs along with associated objects
   6- branch : main
   7- remote : origin
+  8- restore: unstage a file 
+  9- init   :Create an empty Git repository or reinitialize an existing one
+  10- clean -n : show the files that are unstaged
+  11- clean -f : remove the files that are unstaged
 
   how to add file to the remote repo 
     1- git add
