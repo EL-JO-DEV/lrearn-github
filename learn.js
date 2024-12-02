@@ -13,7 +13,7 @@
   10- clean -n : show the files that are unstaged
   11- clean -f : remove the files that are unstaged
   12- reset --hard commit code : remove the last commit
-  13- tag : set a new vergin
+  13- tag -a -m : set a new vergin
   14- log : show the commit history
 
   how to add file to the remote repo 
